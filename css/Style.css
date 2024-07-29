@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');/*This is a comment*/
 selecor{
 	property:value;
@@ -7,7 +7,7 @@ selecor{
 
 
 #kurt{
-	background-image:url(img/videogames.jpg);
+	background-image:url(https://image.petmd.com/files/styles/863x625/public/CANS_dogsmiling_379727605.jpg?w=1920&q=75);
 	width:100%;
 	height: 50%;
 }
@@ -15,6 +15,7 @@ selecor{
 	color:green;
 	font-family:"Tiny5";
 }
-#body{
-	/*color:indianred;*/
+#kurt{
+	font-family:"Bebas+Neue";
+	color:indianred;
 }
