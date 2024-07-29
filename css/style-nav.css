@@ -1,0 +1,28 @@
+/*this is my nav elements stylesheet*/
+/*Css Reset*/
+* {padding:0px;
+	margin: 0px;
+
+}
+
+
+html, body{
+padding: 0px;
+margin: 0px;
+height: 0px;
+width: 0PX;
+
+}
+li{
+color:purple;
+
+}
+ul li{
+color:blue;
+
+}
+div.main-nav-container nav{
+	background-color: lightgoldenrodyellow;
+width: 100%;
+height: 100pxs;
+}
