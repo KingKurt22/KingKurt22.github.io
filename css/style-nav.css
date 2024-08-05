@@ -2,11 +2,11 @@
 /*Css Reset*/
 * {padding:0px;
 	margin: 0px;
-
++
 }
+/
 
-
-html, body{
+html, body{1
 padding: 0px;
 margin: 0px;
 height: 0px;
@@ -25,4 +25,32 @@ div.main-nav-container nav{
 	background-color: lightgoldenrodyellow;
 width: 100%;
 height: 100pxs;
+}
+{
+
+	div.main-nav-container ul{
+		display:inline;
+		border:2px 4px 6px;
+
+}
+div.main-nav-container nav{
+
+
+
+}
+div.main-nav-container nav{
+
+
+
+}
+.VALORANT{
+    background-image: url(https://images.alphacoders.com/135/1356696.jpeg); 
+}
+
+.invisibleLink {
+    display: block;
+    position: absolute;
+    height: 55px;
+    width: 55px;
+    /* valorant */
 }
