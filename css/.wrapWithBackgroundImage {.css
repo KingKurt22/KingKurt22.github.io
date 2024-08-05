@@ -1,0 +1,9 @@
+.wrapWithBackgroundImage {
+    background-image: url(https://images.alphacoders.com/135/1356696.jpeg); /* Specify your image URL */
+}
+
+.invisibleLink {
+    display: block;
+    position: absolute;
+    height: 55px;
+    width: 55px;`
